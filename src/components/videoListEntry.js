@@ -9,5 +9,5 @@ angular.module('video-player')
     video: '<',
   },
 
-  templateUrl: './src/templates/videoListEntry.html'
+  templateUrl: 'src/templates/videoListEntry.html'
 });
